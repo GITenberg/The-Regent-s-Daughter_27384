@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27384#The-Regent-s-Daughter
 gutenberg_issued: '2008-12-02'
 gutenberg_type: Text
 identifiers:
