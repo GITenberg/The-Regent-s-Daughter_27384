@@ -1,0 +1,33 @@
+_repo: The-Regent-s-Daughter_27384
+_version: 0.1.0
+alternative_title: Une fille du régent. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Regency, 1715-1723 -- Fiction'
+- !lcsh 'Orléans, Philippe, duc d'', 1674-1723 -- Fiction'
+- !lcc 'PQ'
+title: The Regent's Daughter
+url: http://www.gutenberg.org/ebooks/27384
